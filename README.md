@@ -148,16 +148,20 @@ Recomenda-se vender a Loja 4 devido aos fatores abaixo:
 
 
 ## 🤝 Como Contribuir <a name="-como-contribuir"></a>
-Faça um Fork do projeto
+Faça um Fork do projeto.
+
 
 [↑ Voltar ao sumário](#-sumário)
 
 ## 🛠️ Tecnologias Utilizadas <a name="-tecnologias-utilizadas"></a>
 Python 3.8
 
+
 Pandas...
 
+
 Matplotlib
+
 
 
 [↑ Voltar ao sumário](#-sumário)
@@ -168,9 +172,12 @@ Matplotlib
 👩‍💻 Autora          
 Ludmila Garcia
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludmila-garcia/)
 
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Ludmila-Garcia)
+
 
 
 [↑ Voltar ao sumário](#-sumário)

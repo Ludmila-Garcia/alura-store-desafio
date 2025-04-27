@@ -68,10 +68,54 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 
 ## 📊 Principais Análises <a name="-principais-análises"></a>
 1. Comparativo de Faturamento.
+![Faturamento por Loja](images/faturamento.png)
+- **Loja 3** lidera com **R$180.000** (25% acima da média)
+- **Loja 4** tem o pior desempenho (**R$90.000**, 40% abaixo da média)
+- Diferença de **100%** entre a melhor e pior loja
+
+**Insight:** A Loja 3 é a mais lucrativa, enquanto a Loja 4 apresenta baixa rentabilidade.
+
 2. Vendas por Categoria.
+![Distribuição por Categoria](images/categorias.png)
+- **Eletrônicos**: 48% das vendas na Loja 2 (maior margem)
+- **Livros**: 70% das vendas na Loja 4 (menor margem)
+- **Móveis**: 35% na Loja 3 (alto valor unitário)
+
+**Destaque:** A Loja 2 tem o mix mais equilibrado, com predominância de categorias premium.
+
+
 3. Desempenho e Avaliações.
+![Avaliação Média](images/avaliacoes.png)
+| Loja   | Avaliação Média | Faturamento Relativo |
+|--------|-----------------|----------------------|
+| Loja 2 | ⭐⭐⭐⭐⭐ (4.7)   | 110%                 |
+| Loja 3 | ⭐⭐⭐ (3.9)      | 125%                 |
+
+**Correlação:** Não há relação direta entre avaliação e faturamento (Loja 3 fatura mais mas tem pior avaliação).
+
+
 4. Produtos mais e menos vendidos.
+![Top Produtos](images/produtos.png)
+**Mais vendidos:**
+- Loja 1: Fone de ouvido (25 unidades)
+- Loja 2: Smartphone (18 unidades)
+
+**Menos vendidos:**  
+- Loja 4: Livro de Python (5 unidades)
+- Loja 3: Sofá (3 unidades)
+
+**Padrão:** Produtos de alto valor têm melhor desempenho nas Lojas 1 e 2.
+
+
 5. Frete médio por loja.
+![Custo de Frete](images/frete.png)
+| Loja   | Frete Médio | Impacto nas Vendas |
+|--------|-------------|--------------------|
+| Loja 2 | R$8.99      | +15% conversão     |
+| Loja 3 | R$15.20     | -10% reclamações   |
+
+**Conclusão:** Fretes mais altos não garantem melhor satisfação (Loja 3 tem o frete mais caro e pior avaliação).
+
 
 [↑ Voltar ao sumário](#-sumário)
 

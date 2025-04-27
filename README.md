@@ -1,5 +1,4 @@
-# 📊 Análise de Vendas - AluraStoreBr Challenge
-# 📊 Análise Estratégica de Lojas - Projeto Data Science
+# 📊 Análise de Vendas - Projeto AluraStoreBr Challenge - Data Science
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)

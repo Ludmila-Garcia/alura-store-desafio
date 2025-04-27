@@ -66,18 +66,6 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 <img src="./images/estrutura-do-projeto.png" alt="Estrutura do projeto" width="500"/>
 
 
-
-
-alura-store-desafio/
-├── DesafioAluraStoreBr.ipynb          # Notebook com análises completas
-│   ├── loja_1.csv
-│   ├── loja_2.csv
-│   ├── loja_3.csv
-│   └── loja_4.csv
-├── Images                             # pasta com imagens 
-├── README.md                          # Este arquivo
-└── requirements.txt                   # Dependências
-
 [↑ Voltar ao sumário](#-sumário)
 
 ## 📊 Principais Análises <a name="-principais-análises"></a>

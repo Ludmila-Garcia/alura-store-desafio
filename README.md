@@ -85,6 +85,8 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 
 
 3. Desempenho e Avaliações.
+
+   
 ![Avaliação Média](images/avaliacoes.png)
 | Loja   | Avaliação Média | Faturamento Relativo |
 |--------|-----------------|----------------------|
@@ -95,6 +97,8 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 
 
 4. Produtos mais e menos vendidos.
+
+   
 ![Top Produtos](images/produtos.png)
 **Mais vendidos:**
 - Loja 1: Fone de ouvido (25 unidades)
@@ -108,6 +112,8 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 
 
 5. Frete médio por loja.
+
+   
 ![Custo de Frete](images/frete.png)
 | Loja   | Frete Médio | Impacto nas Vendas |
 |--------|-------------|--------------------|

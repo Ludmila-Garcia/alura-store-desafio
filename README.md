@@ -63,8 +63,6 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 ## 📂 Estrutura do Projeto <a name="-estrutura-do-projeto"></a>
 ![Gráfico de Vendas](images/estrutura-do-projeto.png)
 
-<img src="./images/estrutura-do-projeto.png" alt="Estrutura do projeto" width="500"/>
-
 
 [↑ Voltar ao sumário](#-sumário)
 

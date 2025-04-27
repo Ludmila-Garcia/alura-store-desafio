@@ -61,7 +61,10 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 [↑ Voltar ao sumário](#-sumário)
 
 ## 📂 Estrutura do Projeto <a name="-estrutura-do-projeto"></a>
-![Estrutura do Projeto](imagens/estrutura-do-projeto.png)
+![Estrutura do Projeto](./imagens/estrutura-do-projeto.png)
+<img src="./imagens/estrutura-do-projeto.png" alt="Estrutura do projeto" width="500"/>
+
+
 
 
 alura-store-desafio/

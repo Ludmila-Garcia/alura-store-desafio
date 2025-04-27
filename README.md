@@ -67,7 +67,9 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 [↑ Voltar ao sumário](#-sumário)
 
 ## 📊 Principais Análises <a name="-principais-análises"></a>
-1. Comparativo de Faturamento.
+1. Comparativo de Faturamento
+
+
 ![Faturamento por Loja](images/faturamento.png)
 - **Loja 3** lidera com **R$180.000** (25% acima da média)
 - **Loja 4** tem o pior desempenho (**R$90.000**, 40% abaixo da média)
@@ -76,6 +78,8 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 **Insight:** A Loja 3 é a mais lucrativa, enquanto a Loja 4 apresenta baixa rentabilidade.
 
 2. Vendas por Categoria.
+
+
 ![Distribuição por Categoria](images/categorias.png)
 - **Eletrônicos**: 48% das vendas na Loja 2 (maior margem)
 - **Livros**: 70% das vendas na Loja 4 (menor margem)
@@ -113,8 +117,6 @@ Opção 2: Via Google Colab [Google Colab](https://colab.research.google.com/)
 
 5. Frete médio por loja.
 
-   
-![Custo de Frete](images/frete.png)
 | Loja   | Frete Médio | Impacto nas Vendas |
 |--------|-------------|--------------------|
 | Loja 2 | R$8.99      | +15% conversão     |
